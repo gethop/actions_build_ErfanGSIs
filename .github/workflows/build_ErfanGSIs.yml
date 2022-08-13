@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://d.pcs.baidu.com/file/889e4b866p286cc2879bd9b7b18d1ed2?fid=2906239406-250528-497555676641178&rt=pr&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-Ds0ErhR2fPHEthfl7M25s6145x4%3D&expires=8h&chkbd=0&chkv=0&dp-logid=1072877477295672277&dp-callid=0&dstime=1660359177&r=701395455&origin_appid=&file_type=0
-  ROM_NAME: ColorOS
+  ROM_URL: https://az7wjpd3.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/16/9.21.11.18/cn_beta/20211118002219/3784e336/update.zip?xyip=222.88.193.116&xyct=1000&xy_rid=zY0W4Gvl4HF16i&xy_oid=43158
+  ROM_NAME: Flyme
   BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
